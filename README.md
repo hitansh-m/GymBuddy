@@ -1,10 +1,10 @@
-🏋️‍♂️ GymBuddy
+🏋️‍♂️ **GymBuddy**
 
-🚀 Your Personal Fitness Companion
+Your Personal Fitness Companion
 
 GymBuddy is a comprehensive fitness application designed to help users schedule, track, and optimize their workout routines. The app provides personalized workout recommendations, schedules workouts on a calendar, and tracks progress over time.
 
-✨ Features
+✨ **Features**
 
 ✅ Personalized Workout Recommendations – Tailored workout plans based on individual preferences and available equipment.
 
@@ -12,7 +12,7 @@ GymBuddy is a comprehensive fitness application designed to help users schedule,
 
 📊 Progress Tracking – Monitor and analyze fitness progress over time.
 
-📥 Installation
+📥 **Installation**
 
 Follow these steps to set up the application on your system:
 
@@ -28,7 +28,7 @@ Copy code
 npm run dev  
 🔗 Navigate to http://localhost:3000 to access the application.
 
-🎯 Usage
+🎯 **Usage**
 
 1️⃣ Sign Up / Log In – Create a new account or log in with existing credentials.
 
@@ -40,7 +40,7 @@ npm run dev
 
 5️⃣ Track Progress – Monitor progress and adjust plans as needed.
 
-🚀 Future Upcoming Updates
+🚀 **Future Upcoming Updates**
 
 🔮 AI-Powered Workouts – Implementing an AI-driven system to generate and adjust workout plans dynamically based on user progress, fitness levels, and goals.
 
